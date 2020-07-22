@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Order-Food</string>
+    <string name="tendangnhap">Tên Đăng Nhập</string>
+    <string name="nhapmatkhau">Mật Khẩu</string>
+    <string name="ngaysinh">Ngày Sinh</string>
+    <string name="chungminhnhandan">Chứng Minh Nhân Dân</string>
+    <string name="dongy">Đồng Ý</string>
+    <string name="thoat">Thoát</string>
+    <string name="dangky">Đăng Ký</string>
+    <string name="loinhaptendangnhap">vui long nhap ten dang nhap</string>
+    <string name="loinhapmatkhau">vui long nhap mat khau</string>
+    <string name="themthanhcong">Them thanh cong</string>
+    <string name="themthatbai">Them that bai</string>
+
+</resources>
