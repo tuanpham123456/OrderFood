@@ -9,19 +9,19 @@
     android:background="@color/background"
     android:paddingBottom="16dp" tools:context=".DangKyActivity"
     >
-<!--    <TextView-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="@string/dangky"-->
-<!--        android:layout_above="@id/lnKhungDangKy"-->
-<!--        android:layout_centerHorizontal="true"-->
-<!--        android:padding="@dimen/size10dp"-->
-<!--        android:layout_margin="@dimen/size10dp"-->
-<!--        android:textStyle="bold"-->
-<!--        android:textSize="@dimen/size30sp"-->
-<!--        >-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dangky"
+        android:layout_above="@id/lnKhungDangKy"
+        android:layout_centerHorizontal="true"
+        android:padding="@dimen/size10dp"
+        android:layout_margin="@dimen/size10dp"
+        android:textStyle="bold"
+        android:textSize="@dimen/size30sp"
+        >
 
-<!--    </TextView>-->
+    </TextView>
     <LinearLayout
         android:id="@+id/lnKhungDangKy"
         android:layout_width="match_parent"
